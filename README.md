@@ -1,11 +1,11 @@
-# tugas3mobile
+# Tugas 3 Mobile
 
 Tugas 3 Praktikum Mobile
 Nama: Hasna Mumtazah Khairunnisa
 NIM: H1D022070
 Shift Baru: E
 
-## Getting Started
+## Penjelasan Kode
 
 1.main.dart
 MyApp Class: Titik awal aplikasi. Pada method build(), aplikasi menggunakan MaterialApp untuk mendefinisikan semua karakter aplikasi. 
